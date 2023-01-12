@@ -1,1 +1,5 @@
-test
+Prerelease build
+
+This build is for sidequest reviewers and game testers only.
+
+Do not share this build with anyone.
