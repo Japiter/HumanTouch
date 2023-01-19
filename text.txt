@@ -1,3 +1,4 @@
-Closed Alpha 6
+1.0.0
 
-There will still be bugs, report them to Japiter.
+Welcome to the first version of the game!
+I hope you enjoy! - Japiter
