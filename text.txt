@@ -1,5 +1,3 @@
-Prerelease build
+Closed Alpha 6
 
-This build is for sidequest reviewers and game testers only.
-
-Do not share this build with anyone.
+There will still be bugs, report them to Japiter.
