@@ -1,4 +1,4 @@
-1.1.2
+Hello!
 
-Fixed all cosmetics
-Fixed all out of map bugs.
+From now on, updates will be posted in the discord.
+This will be just for announcements.
