@@ -1,3 +1,4 @@
-1.1.0
+1.1.2
 
-New Cosmetics & Bug Fixes
+Fixed all cosmetics
+Fixed all out of map bugs.
