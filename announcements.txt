@@ -1,3 +1,5 @@
-<color=blue>Hello!</color>
+<color=yellow>Update</color>
 
-<color=white> Added a bunch new things! Floor is lava works too!</color>
+<color=white>-Floor is lava
+-Revamped every texture
+-Fanart</color>
