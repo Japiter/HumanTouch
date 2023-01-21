@@ -1,2 +1,5 @@
-I hope you all like the new update!
-I think I really do.
+<color=yellow>Update</color>
+
+<color=white>-Floor is lava
+-Revamped every texture
+-Fanart</color>
