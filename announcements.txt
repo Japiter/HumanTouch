@@ -1,4 +1,3 @@
-Hello!
+<color=blue>Hello!</color>
 
-From now on, updates will be posted in the discord.
-This will be just for announcements.
+<color=white> Added a bunch new things! Floor is lava works too!</color>
