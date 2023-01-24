@@ -1,5 +1,6 @@
-<color=yellow>Update</color>
+<color=yellow>Update 1.4</color>
 
-<color=white>-Floor is lava
--Revamped every texture
--Fanart</color>
+<color=white>-New Winter Cosmetics
+-New regular cosmetics
+-Winter theme
+-Fixed sunglasses bug</color>
