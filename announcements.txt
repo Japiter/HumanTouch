@@ -1,6 +1,5 @@
-<color=yellow>Update 1.4</color>
+<color=yellow>Update 1.5</color>
 
-<color=white>-New Winter Cosmetics
--New regular cosmetics
--Winter theme
--Fixed sunglasses bug</color>
+<color=white>-New Hair Cosmetics
+-Day Night Cycle
+-Multiplayer Reworks
