@@ -1,5 +1,4 @@
-<color=yellow>Update 1.5</color>
+<color=yellow>Update 1.5.1</color>
 
-<color=white>-New Hair Cosmetics
--Day Night Cycle
--Multiplayer Reworks
+<color=white>-Removed Day Night Cycle
+-Added Speaker
