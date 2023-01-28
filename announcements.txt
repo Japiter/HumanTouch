@@ -1,8 +1,3 @@
-<color=yellow>Update 1.6</color>
+<color=yellow>Update 1.6.1</color>
 
-<color=white>-Added Offline Rig
--Added Player Colliders
--Added Slippery Walls & Ice
--CURRENCY
--You start out with 500 and gain 100 every day!
--Added Color Changing
+<color=white>-Bug Fixes
