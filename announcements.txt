@@ -1,4 +1,8 @@
-<color=yellow>Update 1.5.1</color>
+<color=yellow>Update 1.6</color>
 
-<color=white>-Removed Day Night Cycle
--Added Speaker
+<color=white>-Added Offline Rig
+-Added Player Colliders
+-Added Slippery Walls & Ice
+- |CURRENCY
+  |You start out with 500 and gain 100 every day!
+- Added Color Changing
