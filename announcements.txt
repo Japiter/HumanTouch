@@ -1,4 +1,7 @@
-<color=yellow>Update 1.7</color>
+<color=yellow>Update 1.8</color>
 
-<color=red>-HORROR MODE</color>
-<color=white>-Horror mode is singleplayer only</color>
+<color=red>-HORROR MODE REVAMP</color>
+<color=white>-New Music
+-New Armor and Sword Cosmetics
+-Gain Coins by completing FIL
+-Lore
