@@ -1,7 +1,6 @@
-<color=yellow>Update 1.8</color>
+<color=yellow>Update 1.9</color>
 
 <color=red>-HORROR MODE REVAMP</color>
-<color=white>-New Music
--New Armor and Sword Cosmetics
--Gain Coins by completing FIL
--Lore
+<color=white>-Fixed Unlimited Coins glitch
+-Fixed out of map bugs
+-New horror villan
