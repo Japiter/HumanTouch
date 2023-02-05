@@ -1,6 +1,5 @@
-<color=yellow>Update 1.9</color>
+<color=orange>Update 2.0</color>
 
-<color=red>-HORROR MODE REVAMP</color>
-<color=white>-Fixed Unlimited Coins glitch
--Fixed out of map bugs
--New horror villan
+<color=white>-New Cosmetic
+-Support for 15 character names
+-Region Changes (Sorry European Players)
