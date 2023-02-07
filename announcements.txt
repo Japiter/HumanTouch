@@ -1,5 +1,6 @@
-<color=orange>Update 2.0</color>
+<color=orange>Update 2.1</color>
 
-<color=white>-New Cosmetic
--Support for 15 character names
--Region Changes (Sorry European Players)
+<color=red>-FLOOR IS LAVA DISABLED DUE TO BUG</color>
+<color=white>-Out of Map Fixes
+-Photon Reworks
+-New Trees! (No more winter)
