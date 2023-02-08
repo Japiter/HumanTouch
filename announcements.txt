@@ -1,6 +1,8 @@
-<color=orange>Update 2.1</color>
+<color=yellow>Update 2.2</color>
 
-<color=red>-FLOOR IS LAVA DISABLED DUE TO BUG</color>
-<color=white>-Out of Map Fixes
--Photon Reworks
--New Trees! (No more winter)
+<color=red>-FLOOR IS LAVA RENABLED</color>
+<color=white>-Removed FIL reward due to causing bug.
+-Outdated Version Reworks.
+-New Trees, again.
+-New cosmetic! (people can grab onto it!)
+-PCVR Currency bug fixed.
