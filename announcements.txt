@@ -1,8 +1,6 @@
-<color=yellow>Update 2.2</color>
+<color=yellow>Update 2.3</color>
 
-<color=red>-FLOOR IS LAVA RENABLED</color>
-<color=white>-Removed FIL reward due to causing bug.
+<color=pink>-LOVE IS LOVE UPDATE</color>
+<color=purple>-ZERO GRAVITY MODE
 -Outdated Version Reworks.
--New Trees, again.
--New cosmetic! (people can grab onto it!)
--PCVR Currency bug fixed.
+-New JS Badges.
