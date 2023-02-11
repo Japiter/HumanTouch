@@ -1,6 +1,6 @@
 <color=yellow>Update 2.3</color>
 
-<color=pink>-LOVE IS LOVE UPDATE</color>
-<color=purple>-ZERO GRAVITY MODE
+<color=#ffcccc>-LOVE IS LOVE UPDATE</color>
+<color=purple>-ZERO GRAVITY MODE</color>
 -Outdated Version Reworks.
 -New JS Badges.
