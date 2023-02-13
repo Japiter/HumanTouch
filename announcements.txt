@@ -1,6 +1,6 @@
 <color=yellow>Update 2.3</color>
 
-<color=orange>PRIVATE LOBBYS</color>
+<color=orange>-PRIVATE LOBBYS</color>
 -Photon Reworks
 -Modding Capabilities on PCVR
 -Random Lobbys soon
