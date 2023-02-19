@@ -1,5 +1,4 @@
-<color=yellow>Update 2.5</color>
+<color=yellow>Update 2.6</color>
 
-<color=#ffcccc>-LOVE IS LOVE PART 2</color>
--PUBLIC LOBBYS
--Happy Valentines Day!
+<color=white>-LOVE IS LOVE is now gone
+-Photon Reworks
