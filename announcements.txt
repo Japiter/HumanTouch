@@ -1,4 +1,3 @@
-<color=yellow>Update 2.6</color>
+<color=red>Special Announcement</color>
 
-<color=white>-LOVE IS LOVE is now gone
--Photon Reworks
+This game is no longer being updated and a remake is in the works!
